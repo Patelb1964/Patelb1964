@@ -1,1 +1,4 @@
 this is files.txt
+this a bug fix
+!qa
+
